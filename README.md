@@ -2,7 +2,13 @@
 1. Listing of files at given path [ls]
 2. Creating new directories at given path [mkdir]
 
-# Steps to start In-Memory File System
+# Running the Program in terminal:
+1. Open terminal and go to project root directory /file-system/
+2. Enter command java -jar in-memory-file-system.jar to run the file system program.
+
+Follow instructions in below steps to test
+
+# Steps to start In-Memory File System in Eclipse:
 1. Go to FileSystemDriver class and run as Java application
  --> This will provide Terminal$ in console
  2. Input command like ls /  to list directories at root path
@@ -28,3 +34,5 @@ Terminal$mkdir /dir1/dir2
 Terminal$ls /dir1
 [dir2]
 Terminal$
+
+
