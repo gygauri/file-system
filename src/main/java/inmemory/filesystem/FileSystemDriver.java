@@ -1,4 +1,5 @@
-package com.razz.sample.standardchartered.assignment.filesystem;
+package main.java.inmemory.filesystem;
+
 
 import java.util.Scanner;
 
